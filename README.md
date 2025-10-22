@@ -10,7 +10,6 @@ It demonstrates how pre trained transformer models (BERT, XLNet, DistilBERT, and
  3. Zero Shot Text Classification
  4. Tokenization Exploration
  5. Sequence Classification with DistilBERT
- 6. Model Saving and Reloading
 
 =>Tech Stack
 Python • PyTorch • transformers • Hugging Face
